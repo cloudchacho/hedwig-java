@@ -7,9 +7,9 @@ Compiled protobuf files for github.com/cloudchacho/hedwig.
 - Add maven dependency:
     ```xml
             <dependency>
-                <groupId>com.cloudchacho</groupId>
+                <groupId>io.github.cloudchacho</groupId>
                 <artifactId>hedwig</artifactId>
-                <version>1.0</version>
+                <version>0.1</version>
             </dependency>
     ```
 - Install protoc: https://github.com/protocolbuffers/protobuf
